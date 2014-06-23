@@ -1,0 +1,14 @@
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Debug\BallStick.csprojResolveAssemblyReference.cache
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\bin\Debug\BallStick.exe
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\bin\Debug\BallStick.pdb
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Debug\BallStick.exe
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Debug\BallStick.pdb
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Debug\BallStick.MainForm.resources
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Debug\BallStick.csproj.GenerateResource.Cache
+D:\Dropbox\dazhuankuai\BallStick\BallStick\bin\Debug\BallStick.exe
+D:\Dropbox\dazhuankuai\BallStick\BallStick\bin\Debug\BallStick.pdb
+D:\Dropbox\dazhuankuai\BallStick\BallStick\obj\Debug\BallStick.csprojResolveAssemblyReference.cache
+D:\Dropbox\dazhuankuai\BallStick\BallStick\obj\Debug\BallStick.MainForm.resources
+D:\Dropbox\dazhuankuai\BallStick\BallStick\obj\Debug\BallStick.csproj.GenerateResource.Cache
+D:\Dropbox\dazhuankuai\BallStick\BallStick\obj\Debug\BallStick.exe
+D:\Dropbox\dazhuankuai\BallStick\BallStick\obj\Debug\BallStick.pdb

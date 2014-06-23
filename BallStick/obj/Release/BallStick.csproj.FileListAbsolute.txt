@@ -1,0 +1,5 @@
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\bin\Release\BallStick.exe
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Release\BallStick.csprojResolveAssemblyReference.cache
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Release\BallStick.MainForm.resources
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Release\BallStick.csproj.GenerateResource.Cache
+C:\Users\crazybee\Documents\SharpDevelop Projects\BallStick\BallStick\obj\Release\BallStick.exe
